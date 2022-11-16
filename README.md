@@ -1,4 +1,4 @@
-# Basic NFT Marketplace end to end
+# NFT Marketplace end to end INTEGRATIONS
 
 ESSE PROJETO FAZ PARTE DA INICIATIVA #ZAEON.WEB3
 
