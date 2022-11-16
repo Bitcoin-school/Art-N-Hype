@@ -1,6 +1,7 @@
-# NFT Marketplace end to end INTEGRATIONS
+# NFT Marketplace for the masses
 
-ESSE PROJETO FAZ PARTE DA INICIATIVA #ZAEON.WEB3
+ESSE PROJETO FAZ PARTE DA INICIATIVA #ZAEON.WEB3, 
+this is it
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
